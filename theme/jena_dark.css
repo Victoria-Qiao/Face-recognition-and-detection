@@ -1,0 +1,33 @@
+QWidget {
+    font-size: 11pt;
+    line-height: 1.5;
+    font-family: 'Ubuntu', 'Segoe UI', 'Microsoft Yahei UI', sans-serif;
+    color: #EEEEEE;
+    background-color: #202020;
+}
+QPushButton {
+    background-color: #505050;
+    border: 1px solid  #505050;
+    border-radius: 0px;
+    padding: 0.5em 1em;
+}
+
+QPushButton:pressed {
+    border-color: #3789ff;
+    background-color: #505050;
+}
+QLabel#mainItem {
+    color: #3789ff;
+    font-size: 16pt;
+    font-family: 'Ubuntu Light', 'Segoe UI Semilight', 'Microsoft Yahei UI Light';
+}
+QLabel#photo {
+    background-color: #353535;
+}
+
+QPlainTextEdit#console {
+    background-color: #353535;
+    font-size: 10pt;
+    font-family: 'Ubuntu Mono', 'Consolas', 'Noto Mono', 'DejaVu Sans Mono', 'Droid Sans Mono', monospace, 'Microsoft Yahei UI';
+    border: none;
+}

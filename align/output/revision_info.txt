@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py /Users/qiaoshuangshuang/Desktop/facenet-master/src/align/input /Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output
+--------------------
+tensorflow version: 1.1.0
+--------------------
+git hash: b''
+--------------------
+b''

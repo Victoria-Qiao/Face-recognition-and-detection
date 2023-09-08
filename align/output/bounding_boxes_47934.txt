@@ -1,0 +1,9 @@
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/QQ20190110-0.png
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/QQ20190110-0.png 298 262 479 471
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/2CF61AE3E2355804EFC4EDA34D502C9C.png 6 26 105 135
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/472AD83E28F378807E935A0F2A0E3C7B.png
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/C41B751F62C25A9D356A2E3C63F39EEF.png 318 622 615 996
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/lsz.png 29 65 349 439
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/440718A1FBA94A3F44F6AB123BB57A58.png 16 88 241 302
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/B857F6432A5D09BF0CABFFC623A95955.png 89 219 512 644
+/Users/qiaoshuangshuang/Desktop/facenet-master/src/align/output/lsz/B436D209B9FDC4D16D99B6A17878DD42.png 51 64 397 418
